@@ -1,4 +1,5 @@
 # Hi, i'm Gustavo.
+I'm a Brazilian programmer, and i love that, the feeling of programming to me is incredible, i love doing projects in Roblox Studio or VScode.
 ## This is my *Portfolio*
 
 ### Skills:
