@@ -3,14 +3,14 @@ I'm a Brazilian programmer, and i love that, the feeling of programming to me is
 # This is my *Portfolio*
 
 ## Skills:
-I have 2/3 years of learning programming languages.\
+I have 2/3 years of learning programming languages.
 
 ### I'm familiar with:
-#### - **Lua** *Good developer*.\
-#### - **Javascript** *Also good with some libraries like **discord.js***.\
-#### - **Web development** *as React-ts, Css(a bit) and HTML5*.\
-#### - **Backend development** *Average*.\
-#### - **Python** *Average begginer, as i know other languages this is not that hard.*\
+#### - **Lua** *Good developer*.
+#### - **Javascript** *Also good with some libraries like **discord.js***.
+#### - **Web development** *as React-ts, Css(a bit) and HTML5*.
+#### - **Backend development** *Average*.
+#### - **Python** *Average begginer, as i know other languages this is not that hard.*
 
 In general, i think i am a good developer, im Brazilian, i can speak Brazilian Portuguese and English only.
 ## My Projects:
