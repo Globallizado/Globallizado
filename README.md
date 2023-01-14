@@ -1,11 +1,20 @@
-<font style="color: red">#Hi, i'm Gustavo.</font><br>
-This is my **Portfolio**<br><br>
+# Hi, i'm Gustavo.
+## This is my *Portfolio*
 
-###Skills:<br>
-I'm familiar with Lua(Roblox Studio), Javascript, Web development as React-ts, Css(a bit) and HTML5, i can work with python too, but im not experienced.
-In general, im not the best Developer you could see, but im trying to be the best of me every day.<br>
+### Skills:
+I have 2/3 years of learning programming languages.\
 
-###Projects of mine:<br>
-I've done some projects in Roblox Studio as a scripter, what i could say is that im familiar with DataStorage(ProfileService and Basic DataStoreService), Chat features as Titles or Announcements.<br>
-One projects of mine was a fake announcements of "Anime Fighters" (Popular game), where you could troll your friends, here is the link to it if u have interest of seeing: https://www.roblox.com/games/7990834012/Anime-Fighters-Fake-Hatching<br>
-Btw, this one was a basic project, and im looking for more experiences as Roblox Scripter. Im open for any question or hiring.<br>
+I'm familiar with:\
+**Lua** *Good developer*.\
+**Javascript** *Also good with some libraries like **discord.js***.\
+**Web development** *as React-ts, Css(a bit) and HTML5*.\
+**Backend development** *Average*.\
+**Python** *Average begginer, as i know other languages this is not that hard.*\
+
+In general, i think i am a good developer, im Brazilian, i can speak Brazilian Portuguese and English only.
+### My Projects:
+I've done some projects in **Roblox Studio** as a **scripter**, what i could say is that im familiar with **DataStorage** *(ProfileService and Basic DataStoreService)*, **Chat features** as Titles or Announcements.\
+One projects of mine was a fake announcements of "Anime Fighters" *(Popular game)*, where you could troll your friends, [here is the link](https://www.roblox.com/games/7990834012/Anime-Fighters-Fake-Hatching).\
+Im working in some projects, and im looking for more experiences as Roblox Scripter. Im open for any question or hiring.
+
+You can find other projects in my repositories or my [Roblox Profile](https://www.roblox.com/users/868853621/profile).
