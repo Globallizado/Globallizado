@@ -14,7 +14,7 @@ I have 2/3 years of learning programming languages.
 
 In general, i think i am a good developer, im Brazilian, i can speak Brazilian Portuguese and English only.
 ## My Projects:
-I've done some projects in **Roblox Studio** as a **scripter**, what i could say is that im familiar with **DataStorage** *(ProfileService and Basic DataStoreService)*, **Chat features** as Titles or Announcements.\
+I've done some projects in **Roblox Studio** as a **scripter**, what i could say is that im familiar with **DataStorage** *(ProfileService and Basic DataStoreService)*, **Chat features** as Titles or Announcements, **RemoteEvents** and other basic things.\
 One projects of mine was a fake announcements of "Anime Fighters" *(Popular game)*, where you could troll your friends with fake chat announcements of hatching in-game characters, [here is the link](https://www.roblox.com/games/7990834012/Anime-Fighters-Fake-Hatching).\
 Im working in some projects, and im looking for more experiences as Roblox Scripter. Im open for any question or hiring.
 
