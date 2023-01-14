@@ -1,5 +1,5 @@
-##Hi, i'm Gustavo.
-###This is my Portfolio
+###Hi, i'm Gustavo.
+This is my **Portfolio**
 
 ###Skills:
 I'm familiar with Lua(Roblox Studio), Javascript, Web development as React-ts, Css(a bit) and HTML5, i can work with python too, but im not experienced.
