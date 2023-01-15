@@ -2,7 +2,7 @@
 I'm a Brazilian programmer, and i love that, the feeling of programming to me is incredible, i love doing projects in Roblox Studio or VScode.
 
 # Skills:
-I have 2/3 years of learning programming languages.\
+I have 2/3 years of learning programming languages.
 
 ## *I'm familiar with:*
 #### **Lua:** Good developer.
