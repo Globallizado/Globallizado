@@ -13,7 +13,7 @@ I have 2/3 years of learning programming languages.\
 
 In general, i think i am a good developer, im Brazilian, i can speak Brazilian Portuguese and English only.
 ## *My Projects:*
-I've done some projects in **Roblox Studio** as a **scripter**, what i could say is that im familiar with **DataStorage** *(ProfileService and Basic DataStoreService)*, **Chat features** as Titles or Announcements.\
+I've done some projects in **Roblox Studio** as a **scripter**, what i could say is that im familiar with **DataStorage** *(ProfileService and Basic DataStoreService)*, **Chat features** as Titles or Announcements.
 ### **See my Roblox projects by [clicking here](https://talent.roblox.com/creators/868853621).**
 Im working in some projects, and im looking for more experiences as Roblox Scripter.\
 Im open for any question or hiring.
