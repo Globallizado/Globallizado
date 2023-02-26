@@ -1,19 +1,14 @@
-# Hi, i'm Gustavo.
-I'm a Brazilian programmer, and i love that, the feeling of programming to me is incredible, i love doing projects in Roblox Studio or VScode.
+# Hi, 👋🏼 i'm Globallzin.
 
-# Skills:
-I have 2/3 years of learning programming languages.
+## About me:
+I'm from **Brazil**, I am 14/15 years old.\
+I started programming about four years ago, in the past year i've been studying **Lua** (Roblox Studio), I consider myself an experienced scripter at the moment.
 
-## *I'm familiar with:*
-#### **Lua:** Good developer.
-#### **Javascript:** Good developer, also good with some libraries like *discord.js*.
-#### **Web development:** *as React-ts, Css and HTML5*.
-#### **Backend development:** *Average Developer*.
-#### **Python:** *Average Developer, as i know other languages this is not that hard.*
+### What languages i'm familiar?
+I started programming in basic web development as 'HTML, Css, Javascript' and i loved it, the feeling of programming is indescribable for me; After some years i started studying React(typescript) and some other things as Node, but i stopped for working with Lua in Roblox Studio as i love it programming language.
 
-In general, i think i am a good developer, im Brazilian, i can speak Brazilian Portuguese and English only.
-## *My Projects:*
-I've done some projects in **Roblox Studio** as a **scripter**, what i could say is that im familiar with **DataStorage** *(ProfileService and Basic DataStoreService)*, **Chat features** as Titles or Announcements.
-### **See my Roblox projects by [clicking here](https://talent.roblox.com/creators/868853621).**
-Im working in some projects, and im looking for more experiences as Roblox Scripter.\
-Im open for any question or hiring.
+### Are you open for hire?
+Yes, i'm looking for jobs as tasks or maybe even long term contract, the payment depends on the task difficulty.
+
+### How can i contact you?
+You can contact me on Discord, my user is **Globall#0595**.
